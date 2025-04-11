@@ -1,4 +1,3 @@
-<
 # Olá, me chamo [Rodrigo Kahn](https://www.linkedin.com/in/rodrigo-kahn/) 🤝
 
 Formado em engenharia de produção com MBA em Auditoria e Controladoria, tenho também formação executiva em Big Data e Data Science. Atualmente trabalho como __Controller__ de uma grande empresa vinculada a Amazon com experiência em _finanças_ e _controladoria_, também entusiasta de programação e ansioso por aprendizado🤓.
